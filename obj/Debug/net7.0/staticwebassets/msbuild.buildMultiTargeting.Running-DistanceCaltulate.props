@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Running-DistanceCaltulate.props" />
+</Project>

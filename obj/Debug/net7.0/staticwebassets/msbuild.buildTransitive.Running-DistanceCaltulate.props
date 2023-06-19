@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Running-DistanceCaltulate.props" />
+</Project>
